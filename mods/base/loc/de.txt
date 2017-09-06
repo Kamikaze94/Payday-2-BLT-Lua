@@ -7,17 +7,17 @@
 	"blt_options_menu_keybinds_desc" : "Setzte Tastenkürzel für deine BLT Mods",
 
 	"blt_mod_outdated" : "Dieser Mod ist für eine ältere Version von BLT und wird nicht länger unterstützt; Der Entwickler muss ihn für die neuste Version von BLT aktualisieren. Du wirst Fehler und Abstürze bekommen, wenn du diesen Mod installiert lässt.",
-	"blt_mod_missing_dependencies" : "Dieser Mod benötigt andere Mods zum arbeiten, die nicht installiert sind, weshalb er deaktiviert wurde.",
+	"blt_mod_missing_dependencies" : "Dieser Mod benötigt andere Mods zum Arbeiten, die nicht installiert sind, weshalb er deaktiviert wurde.",
 	"blt_mod_missing_dependency" : "    Fehlend: $dependency",
 	"blt_mod_missing_dependency_download" : "    Fehlend: $dependency, zum Download Manager hinzugefügt",
 	"blt_mod_dependency_disabled" : "Dieser Mod benötigt andere Mods, die deaktiviert sind, weshalb er deaktiviert wurde.",
 	"blt_mod_disabled_dependency" : "    Deaktiviert: $dependency",
 
-	"blt_mod_info_author" : "Author",
+	"blt_mod_info_author" : "Autor",
 	"blt_mod_info_contact" : "Kontakt",
 
 	"blt_mod_state_enabled" : "Aktiviert",
-	"blt_mod_state_enabled_desc" : "Dieser Mod wird beim start des Spiels geladen.",
+	"blt_mod_state_enabled_desc" : "Dieser Mod wird beim Start des Spiels geladen.",
 	"blt_mod_state_disabled" : "Deaktiviert",
 	"blt_mod_state_disabled_desc" : "Dieser Mod wird nicht vom Spiel geladen.",
 	"blt_mod_state_forced_disabled" : "Deaktiviert",
@@ -74,7 +74,7 @@
 	"blt_checking_updates_required_help" : "Für deine Mods sind Updates verfügbar, besuche den Download Manager um sie zu installieren!",
 	"blt_view_patch_notes" : "Zeige Änderungsprotokoll",
 	"blt_checking_updates_none_required" : "Aktuell",
-	"blt_checking_updates_none_required_help" : "Keine deiner Mods benötogen Updates!",
+	"blt_checking_updates_none_required_help" : "Keine deiner Mods benötigen Updates!",
 
 	"blt_language_select" : "Sprache",
 	"blt_language_select_desc" : "Wähle die Sprache in der BLT angezeigt werden soll",
